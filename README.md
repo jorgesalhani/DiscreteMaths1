@@ -1,2 +1,2 @@
 # DiscreteMaths1
-Studies from Discrete Mathematics 1 classes
+Studies from course [Discrete Mathematics 1](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=SMA0180)
